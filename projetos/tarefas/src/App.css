@@ -1,0 +1,12 @@
+.App {
+  background-color: #191970;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: justify;
+  font-size: calc(10px + 2vmin);
+  color: #FFA500;
+}
+
+/* #FFA500 -> Amarelo*/
